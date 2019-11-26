@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [lettuce 执行命令超时问题思考](http://b.diskblog.com/articles/2019/11/25/1574681384385.html)
 * [世界，你好！](http://b.diskblog.com/hello-solo)
 
 
